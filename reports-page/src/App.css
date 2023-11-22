@@ -1,0 +1,27 @@
+body {
+  display: grid;
+  place-items: center;
+  margin-top: 20px;
+}
+
+.content {
+  width: 90vw;
+}
+td img {
+  width: 100px;
+}
+
+.centered-content {
+  display: grid;
+  place-items: center;
+  width: 100%;
+}
+
+.icon-container i {
+  font-size: 20px;
+}
+
+.filter {
+  display: flex;
+  gap: 10px;
+}
